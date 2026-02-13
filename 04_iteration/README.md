@@ -14,8 +14,8 @@ For this assignment, your task is to implement the following functions:
 - A function named `avg` that returns the average of a given array of
   numbers.
 
-- A function named `ordered-list` that transform a given array of
-  strings into an HTML [ordered list].
+- A function named `orderedList` that transform a given array of strings
+  into an HTML ordered list.
 
 - A function named `reverse` that reverses the characters in a given
   string.
